@@ -1,0 +1,24 @@
+[
+    {
+        "tipo": "DispositivoEcologico",
+        "nombre": "Batería de Litio EcoVolt",
+        "precio": 850.0,
+        "stock": 12
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar Monocristalino",
+        "precio": 320.5,
+        "stock": 25,
+        "potencia_w": 450.0,
+        "eficiencia": 21.5
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar Policristalino",
+        "precio": 210.0,
+        "stock": 18,
+        "potencia_w": 330.0,
+        "eficiencia": 17.8
+    }
+]
